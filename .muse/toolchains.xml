@@ -7,7 +7,7 @@
       </provides>
       <configuration>
          <paths>
-            <path>${JAVA_HOME}/bin</path>
+            <path>/usr/lib/jvm/java-8-openjdk-amd64/bin</path>
          </paths>
       </configuration>
    </toolchain>
